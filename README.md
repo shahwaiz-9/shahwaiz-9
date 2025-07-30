@@ -58,7 +58,7 @@ Firebase, Core Data,  Swift Data, Realm, CloudKit, Firebase RealTime storage
 
 
 
-Git, Xcode, VSCode
+Git, Xcode, VSCode, Android Studio, Postman
 
 
 
